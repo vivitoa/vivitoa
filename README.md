@@ -1,13 +1,21 @@
-# MyDevEvolution
-Sharing my bio and coding journey as I dive deeper into Python and development.
+# 💫 About Me:
+Sharing my coding journey as I dive deeper into Python and development.<br><br>👩‍💻 Aspiring programmer learning Python, AI 🤖, and Linux administration 🐧. I share both personal projects and those from my educational journey here on GitHub.<br><br>🔭 **I’m currently working on**:<br><br>    • Improving my problem-solving skills with Python projects.<br>    • Expanding my knowledge in Linux<br><br>🌱 **I’m currently learning**:<br><br>    • Python Fundamentals and Linux system.<br>    • Exploring AI and automation.<br><br>💬 **Ask me about**:<br><br>    • My coding journey and projects.<br><br>⚡ **Fun fact**:  <br><br>✨ *"Debugging is like being the detective in a crime movie where you are also the murderer."* 😆
 
 
-👩‍💻 I’m an aspiring programmer, currently building my skills in Python, AI 🤖, and Linux administration 🐧. I’m actively working on projects related to my educational course, which I share here on GitHub as part of my journey to becoming a well-rounded developer.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/velina-serafimova-217095116) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/vivitoa3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivi.serafimova@gmail.com) 
 
-💡 Coding is my passion. I’m fascinated by how programming can solve real-world problems, streamline processes, and drive innovation. Whether it’s automating repetitive tasks, developing intelligent systems, or managing complex Linux environments, I enjoy creating impactful solutions.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vivitoa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vivitoa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivitoa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🚀 I’m focused on deepening my expertise in AI, particularly in machine learning and data science, and Linux administration, where I aim to build strong infrastructure and systems management skills.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vivitoa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-🔍 My goal is to continually grow as a developer, contribute to meaningful projects, and leverage my programming skills to make a tangible difference. I’m eager to bring my passion for coding and my problem-solving mindset to a professional environment where I can collaborate, learn from experienced colleagues, and contribute to impactful projects.
+---
+[![](https://visitcount.itsvg.in/api?id=vivitoa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-💁‍♀️ "If I had a dollar for every bug I’ve fixed... I’d still need a full-time job." 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -2,8 +2,12 @@
   <strong><em>👋 Hi, I'm Velina Serafimova, a Python Developer from Bulgaria 🚀</em></strong>
 </p>
 
-<br><br> 
+<br>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
+</div>
 
+<br>
 
  🌐 **Socials:**
  
@@ -32,7 +36,7 @@
  💻 **Tech Stack:**
  <br>
  
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=white)
 
 <br>
 
@@ -52,5 +56,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vivitoa&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

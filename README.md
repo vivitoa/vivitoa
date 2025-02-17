@@ -41,12 +41,18 @@
 <br>
 
  📊 **GitHub Stats:**
+
  <br>
  
-![](https://github-readme-stats.vercel.app/api?username=vivitoa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vivitoa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivitoa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivitoa/vivitoa/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vivitoa/vivitoa/output/github-contribution-grid-snake.svg">
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vivitoa/vivitoa/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
+<br>
 <br>
 
  🔝 **Top Contributed Repo:**

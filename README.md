@@ -5,9 +5,6 @@
 </a>
 <!-- Custom coded banner with gradient and icons -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=500&color=73DACA&center=true&vCenter=true&multiline=true&width=600&height=125&lines=Python+Developer+%F0%9F%90%8D;Linux+Enthusiast+%F0%9F%90%A7;Tech+Explorer+%E2%AD%90" alt="About" />
-
-<!-- Snake animation -->
-<img src="https://github.com/vivitoa/vivitoa/blob/main/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 <div>
   <a href="https://www.linkedin.com/in/velina-serafimova-217095116" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -21,9 +18,15 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=vivitoa&style=for-the-badge&color=7aa2f7&base=73891" alt="Profile Views" />
 </div>
+<!-- Snake animation -->
+<img src="https://github.com/vivitoa/vivitoa/blob/main/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 </div>
 
+<div align="center">
+  
 ## 💫 About Me
+</div>
 
 ```python
 class Developer:

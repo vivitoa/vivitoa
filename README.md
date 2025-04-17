@@ -1,8 +1,12 @@
 <div align="center">
 <!-- Add animated typing effects, emoji, and better typography -->
-<a href="https://git.io/typing" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=500&color=7AA2F7&center=true&width=600&lines=Hi+there!+👋;I'm+Velina+Serafimova;Welcome+to+my+Profile+🚀" alt="Typing SVG" />
+[<a href="https://git.io/typing-svg" align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&weight=600&size=35&duration=4000&pause=500&color=7AA2F7&center=true&width=600&lines=Hi%20there%21%20%F0%9F%91%8B;I%27m%20Velina%20Serafimova;Welcome%20to%20my%20Profile%20%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
 </a>
+
 <!-- Custom coded banner with gradient and icons -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=500&color=73DACA&center=true&vCenter=true&multiline=true&width=600&height=125&lines=Python+Developer+%F0%9F%90%8D;Linux+Enthusiast+%F0%9F%90%A7;Tech+Explorer+%E2%AD%90" alt="About" />
 <div>

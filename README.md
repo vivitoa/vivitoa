@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Add animated typing effects, emoji, and better typography -->
-[<a href="https://git.io/typing-svg" align="center">
+<a href="https://git.io/typing-svg" align="center">
   <img
     src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&weight=600&size=35&duration=4000&pause=500&color=7AA2F7&center=true&width=600&lines=Hi%20there%21%20%F0%9F%91%8B;I%27m%20Velina%20Serafimova;Welcome%20to%20my%20Profile%20%F0%9F%9A%80"
     alt="Typing SVG"

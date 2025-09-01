@@ -51,7 +51,7 @@ class Developer:
 <div align="center">
 
 ## 🚀 Tech Stack
-<img src="https://skillicons.dev/icons?i=python,linux,git,postman,html,css" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=python,postgresql,pycharm,vscode,linux,windows,bash,git,github,postman,html,css" alt="Skills" />
 
 ## 📈 GitHub Activity
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivitoa&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=73daca&fire=ff9e64&currStreakNum=7aa2f7&sideNums=7aa2f7&currStreakLabel=7aa2f7&sideLabels=7aa2f7&dates=a9b1d6" alt="GitHub Streak"/>
